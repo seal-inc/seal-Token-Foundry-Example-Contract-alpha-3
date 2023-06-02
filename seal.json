@@ -9,7 +9,8 @@
     {
       "contract": "SealToken",
       "constructors": [1000000000, "TetherToken", "USDT", 5],
-      "constructorPayableEthAmount": 0
+      "constructorPayableEthAmount": 0, 
+      "ownableAddress": "0xF3232338EC809BC9bEdDd102cFc4bD1665A8CaB7"
     }, 
     {
       "contract": "ContractAddressTracker",
